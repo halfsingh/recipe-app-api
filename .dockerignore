@@ -1,9 +1,8 @@
-#GIT
-
+# Git
 .git
 .gitignore
 
-#DOCKER
+# Docker
 .docker
 
 # Python
